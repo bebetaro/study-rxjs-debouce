@@ -1,4 +1,4 @@
-## Study RxJs with React Hooks
+## Study RxJS with React Hooks
 
 ### Sample Page
 - https://bebetaro.github.io/study-rxjs-debouce/
