@@ -35,7 +35,7 @@ function App() {
           value={text$}
         />
       </div>
-      <h4>Wait for 1 second</h4>
+      <h4>Type and wait for 1 second</h4>
       <div className={styles.spacer}>
         <h3>{text}</h3>
       </div>
